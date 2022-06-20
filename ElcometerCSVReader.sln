@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElcometerCSVReader", "ElcometerCSVReader\ElcometerCSVReader.csproj", "{A32AF170-673B-421C-9DA7-17EA148F9198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32AF170-673B-421C-9DA7-17EA148F9198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32AF170-673B-421C-9DA7-17EA148F9198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32AF170-673B-421C-9DA7-17EA148F9198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32AF170-673B-421C-9DA7-17EA148F9198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A10B2DD-83AC-442B-A889-A398D9150646}
+	EndGlobalSection
+EndGlobal
